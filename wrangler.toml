@@ -3,6 +3,6 @@ main = "_worker.js"
 compatibility_date = "2025-11-04"
 keep_vars = true
 
-[[edgetunnel]]
+[[kv_namespaces]]
 binding = "KV"			#KV绑定名默认不可修改
-id = "fkgw"				#KV数据库id
+id = "5782ea9c454b405da93c51e7f6a3e35b"				#KV数据库id
